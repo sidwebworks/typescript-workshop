@@ -1,15 +1,13 @@
 export const SITE = {
   title: 'Understanding Typescript',
-  description: 'Companion workshop for typescript workshop.',
+  description: 'Companion website for the typescript workshop.',
   defaultLanguage: 'en_US',
 };
 
 export const OPEN_GRAPH = {
   image: {
-    src: 'https://github.com/withastro/astro/blob/main/assets/social/banner.jpg?raw=true',
-    alt:
-      'astro logo on a starry expanse of space,' +
-      ' with a purple saturn-like planet floating in the right foreground',
+    src: '`https://github.com/sidwebworks/typescript-workshop/',
+    alt: 'Understanding Typescript',
   },
   twitter: 'sidwebworks',
 };
@@ -42,20 +40,35 @@ export const SIDEBAR = {
       text: 'Type annotations and Aliases',
       link: 'type-annotations-and-aliases',
     },
-    { text: 'Common mistakes', link: 'common-mistakes' }, 
-    { text: 'Variables and functions', link: 'variables-and-functions' }, 
-    { text: 'Arrays, Tuples and objects', link: 'arrays-tuples-and-objects' }, 
-    { text: 'Unions and Intersections', link: 'unions-and-intersections' },  
-    { text: 'Any, unknown and never', link: 'any-unknown-never-types' },  
-    { text: 'Code re-use with interfaces', link: 'code-reuse-with-interfaces' },  
-    { text: 'Understanding type narrowing', link: 'understanding-type-narrowing' },  
+    { text: 'Common mistakes', link: 'common-mistakes' },
+    { text: 'Variables and functions', link: 'variables-and-functions' },
+    { text: 'Arrays, Tuples and objects', link: 'arrays-tuples-and-objects' },
+    { text: 'Unions and Intersections', link: 'unions-and-intersections' },
+    { text: 'Any, unknown and never', link: 'any-unknown-never-types' },
+    { text: 'Code re-use with interfaces', link: 'code-reuse-with-interfaces' },
+    {
+      text: 'Understanding type narrowing',
+      link: 'understanding-type-narrowing',
+    },
     { text: 'Workshop content - Day 2', header: true },
-    { text: 'OOP and Access modifiers', link: 'oop-and-access-modifiers' },  
-    { text: 'Generics, constrains and Utility types', link: 'generics-and-utility-types' },  
-    { text: 'Read only Types and const', link: 'read-only-types-and-generic-constrains' },  
-    { text: 'Mapped and Conditional Types', link: 'mapped-and-conditional-types' },  
-    { text: 'Template literal types', link: 'template-literal-types' },  
-    { text: 'Custom Type guards and assertions', link: 'custom-type-guards-and-assertions' },  
-    { text: 'Type challenges', link: 'type-challenges' },  
+    { text: 'OOP and Access modifiers', link: 'oop-and-access-modifiers' },
+    {
+      text: 'Generics, constrains and Utility types',
+      link: 'generics-and-utility-types',
+    },
+    {
+      text: 'Read only Types and const',
+      link: 'read-only-types-and-generic-constrains',
+    },
+    {
+      text: 'Mapped and Conditional Types',
+      link: 'mapped-and-conditional-types',
+    },
+    { text: 'Template literal types', link: 'template-literal-types' },
+    {
+      text: 'Custom Type guards and assertions',
+      link: 'custom-type-guards-and-assertions',
+    },
+    { text: 'Type challenges', link: 'type-challenges' },
   ],
 };

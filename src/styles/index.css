@@ -13,6 +13,11 @@ img {
   /* background-color: #0c0c0c; */
 }
 
+aside ::-webkit-scrollbar {
+  width: 4px;
+  /* background-color: #0c0c0c; */
+}
+
 *::-webkit-scrollbar-thumb {
   /* -webkit-box-shadow: inset -5px 0px 29px 0 #ec4896; */
   border-radius: 12px;
