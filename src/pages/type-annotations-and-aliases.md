@@ -96,7 +96,7 @@ let num = 23; // num type here is number
 num = getLastLetter('Bob'); // Error
 ```
 
-### Aliases
+## Aliases
 
 You can create your own types, using `type`
 
