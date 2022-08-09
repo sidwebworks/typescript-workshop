@@ -32,3 +32,13 @@ To install typescript globally on our machine we can run
 ```sh
 npm install -g typescript
 ```
+
+### Running typescript file
+
+You can run the code using:
+```bash
+# Transpiles the file to javascript.
+$ tsc file.ts
+# Run the file using node.
+$ node file.js
+```
