@@ -52,6 +52,8 @@ This process of analyzing our code and producing type errors is known as **Type 
 
 ## Javascript vs Typescript
 
+![Diagram](/static/ts-env.svg)
+
 Typescript is not meant to replace Javascript, infact you cannot run Typescript directly as it requires an extra build step to convert it down to regular javascript so that it can be ran into existing environments like Browsers, Node, Deno etc.
 
 Here is some bit more intermediate Typescript code
@@ -77,7 +79,9 @@ const getTokens: GetTokens = async (userId) => {
 };
 ```
 
-After the TSC (Typescript compiler) will convert this code to regular Javascript this is what we will get,
+![Diagram](/static/ts-compiler.svg)
+
+After the TSC (Typescript compiler) will convert this code to Javascript this is what we will get,
 
 ```js
 'use strict';

@@ -37,15 +37,24 @@ export const SIDEBAR = {
     { text: 'Introduction', link: 'introduction' },
     { text: 'Setting up Typescript', link: 'setting-up-typescript' },
     {
-      text: 'Type annotations and Aliases',
-      link: 'type-annotations-and-aliases',
+      text: 'Type annotations and inference',
+      link: 'type-annotations-and-inference',
     },
-    { text: 'Common mistakes and gotchas', link: 'common-mistakes' },
-    { text: 'Variables and functions', link: 'variables-and-functions' },
-    { text: 'Arrays, Tuples and objects', link: 'arrays-tuples-and-objects' },
+    {
+      text: 'Functions, Arrays and objects',
+      link: 'functions-arrays-objects',
+    },
+    { text: 'Tuples and Enums', link: 'tuples-and-enums' },
     { text: 'Unions and Intersections', link: 'unions-and-intersections' },
     { text: 'Any, unknown and never', link: 'any-unknown-never-types' },
-    { text: 'Code re-use with interfaces', link: 'code-reuse-with-interfaces' },
+    {
+      text: 'Type aliases and Interfaces',
+      link: 'type-aliases-and-interfaces',
+    },
+    {
+      text: 'Read only Types and const',
+      link: 'read-only-types-and-generic-constrains',
+    },
     {
       text: 'Understanding type narrowing',
       link: 'understanding-type-narrowing',
@@ -56,10 +65,7 @@ export const SIDEBAR = {
       text: 'Generics, constrains and Utility types',
       link: 'generics-and-utility-types',
     },
-    {
-      text: 'Read only Types and const',
-      link: 'read-only-types-and-generic-constrains',
-    },
+
     {
       text: 'Mapped and Conditional Types',
       link: 'mapped-and-conditional-types',

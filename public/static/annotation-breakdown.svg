@@ -1,0 +1,108 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1128.437348174976 405.79279650751084" width="2256.874696349952" height="811.5855930150217">
+    <!-- svg-source:excalidraw -->
+
+    <defs>
+        <style>
+            * {
+                font-family: monospace;
+            }
+      </style>
+    </defs>
+    <rect x="0" y="0" width="1128.437348174976" height="405.79279650751084" fill="#fff"></rect>
+    <g transform="translate(270.280682993304 10) rotate(0 238.5 17)">
+        <text x="238.5" y="27" font-family="Cascadia, Segoe UI Emoji" font-size="28px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">let firstName: string = "Sid"</text>
+    </g>
+    <g stroke-opacity="0.2" fill-opacity="0.2" stroke-linecap="round" transform="translate(221.06085924205058 218.10225547338416) rotate(0 40.67529888026888 17.258591291618814)">
+        <path d="M8.63 0 L72.72 0 L76.5 0.54 L79.19 2.16 L80.81 4.85 L81.35 8.63 L80.81 29.66 L79.19 32.36 L76.5 33.98 L72.72 34.52 L8.63 34.52 L4.85 33.98 L2.16 32.36 L0.54 29.66 L0 8.63 L0.54 4.85 L2.16 2.16 L4.85 0.54 L8.63 0" stroke="none" stroke-width="0" fill="#7950f2"></path>
+        <path d="M8.63 0 M8.63 0 C26.27 0, 43.91 0, 72.72 0 M8.63 0 C27.89 0, 47.15 0, 72.72 0 M72.72 0 C78.47 0, 81.35 2.88, 81.35 8.63 M72.72 0 C78.47 0, 81.35 2.88, 81.35 8.63 M81.35 8.63 C81.35 14.42, 81.35 20.21, 81.35 25.89 M81.35 8.63 C81.35 12.99, 81.35 17.35, 81.35 25.89 M81.35 25.89 C81.35 31.64, 78.47 34.52, 72.72 34.52 M81.35 25.89 C81.35 31.64, 78.47 34.52, 72.72 34.52 M72.72 34.52 C58.07 34.52, 43.41 34.52, 8.63 34.52 M72.72 34.52 C56.91 34.52, 41.11 34.52, 8.63 34.52 M8.63 34.52 C2.88 34.52, 0 31.64, 0 25.89 M8.63 34.52 C2.88 34.52, 0 31.64, 0 25.89 M0 25.89 C0 19.77, 0 13.64, 0 8.63 M0 25.89 C0 20.99, 0 16.1, 0 8.63 M0 8.63 C0 2.88, 2.88 0, 8.63 0 M0 8.63 C0 2.88, 2.88 0, 8.63 0" stroke="#5f3dc4" stroke-width="2" fill="none"></path>
+    </g>
+    <g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(233.88644506535888 217.83681705851643) rotate(0 25 17)">
+        <text x="25" y="27" font-family="Cascadia, Segoe UI Emoji" font-size="28px" fill="#5f3dc4" text-anchor="middle" style="white-space: pre;" direction="ltr">let</text>
+    </g>
+    <g stroke-linecap="round">
+        <g stroke-opacity="0.5" fill-opacity="0.5" transform="translate(250.08157723970885 260.83885850021704) rotate(0 -10.75829434819866 26.562116149288045)">
+            <path d="M0 0 C-3.59 8.85, -17.93 44.27, -21.52 53.12 M0 0 C-3.59 8.85, -17.93 44.27, -21.52 53.12" stroke="#5f3dc4" stroke-width="2" fill="none"></path>
+        </g>
+        <g stroke-opacity="0.5" fill-opacity="0.5" transform="translate(250.08157723970885 260.83885850021704) rotate(0 -10.75829434819866 26.562116149288045)">
+            <path d="M-20.49 24.48 C-20.78 32.57, -21.07 40.66, -21.52 53.12 M-20.49 24.48 C-20.8 33.07, -21.11 41.65, -21.52 53.12" stroke="#5f3dc4" stroke-width="2" fill="none"></path>
+        </g>
+        <g stroke-opacity="0.5" fill-opacity="0.5" transform="translate(250.08157723970885 260.83885850021704) rotate(0 -10.75829434819866 26.562116149288045)">
+            <path d="M-2.32 31.84 C-7.74 37.85, -13.17 43.87, -21.52 53.12 M-2.32 31.84 C-8.07 38.22, -13.83 44.6, -21.52 53.12" stroke="#5f3dc4" stroke-width="2" fill="none"></path>
+        </g>
+    </g>
+    <g stroke-opacity="0.6" fill-opacity="0.6" transform="translate(99.17185823082968 324.1118524521097) rotate(0 129.5 12)">
+        <text x="129.5" y="20" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#5f3dc4" text-anchor="middle" style="white-space: pre;" direction="ltr">Declare a new variable</text>
+    </g>
+    <g transform="translate(330.64462951349765 217.6470060614696) rotate(0 74.5 17)">
+        <text x="74.5" y="27" font-family="Cascadia, Segoe UI Emoji" font-size="28px" fill="#5c940d" text-anchor="middle" style="white-space: pre;" direction="ltr">firstName</text>
+    </g>
+    <g stroke-opacity="0.4" fill-opacity="0.4" stroke-linecap="round" transform="translate(327.0263769471396 217.65667802764494) rotate(0 79.19317868842859 17.663647710408668)">
+        <path d="M8.83 0 L149.55 0 L153.42 0.55 L156.18 2.21 L157.83 4.97 L158.39 8.83 L157.83 30.36 L156.18 33.12 L153.42 34.78 L149.55 35.33 L8.83 35.33 L4.97 34.78 L2.21 33.12 L0.55 30.36 L0 8.83 L0.55 4.97 L2.21 2.21 L4.97 0.55 L8.83 0" stroke="none" stroke-width="0" fill="#40c057"></path>
+        <path d="M8.83 0 M8.83 0 C41.7 0, 74.57 0, 149.55 0 M8.83 0 C49.88 0, 90.92 0, 149.55 0 M149.55 0 C155.44 0, 158.39 2.94, 158.39 8.83 M149.55 0 C155.44 0, 158.39 2.94, 158.39 8.83 M158.39 8.83 C158.39 13.69, 158.39 18.55, 158.39 26.5 M158.39 8.83 C158.39 12.47, 158.39 16.1, 158.39 26.5 M158.39 26.5 C158.39 32.38, 155.44 35.33, 149.55 35.33 M158.39 26.5 C158.39 32.38, 155.44 35.33, 149.55 35.33 M149.55 35.33 C103.46 35.33, 57.37 35.33, 8.83 35.33 M149.55 35.33 C97.28 35.33, 45.01 35.33, 8.83 35.33 M8.83 35.33 C2.94 35.33, 0 32.38, 0 26.5 M8.83 35.33 C2.94 35.33, 0 32.38, 0 26.5 M0 26.5 C0 20.54, 0 14.58, 0 8.83 M0 26.5 C0 21.67, 0 16.84, 0 8.83 M0 8.83 C0 2.94, 2.94 0, 8.83 0 M0 8.83 C0 2.94, 2.94 0, 8.83 0" stroke="#5c940d" stroke-width="2" fill="none"></path>
+    </g>
+    <g stroke-linecap="round">
+        <g stroke-opacity="0.4" fill-opacity="0.4" transform="translate(402.0078500947386 210.7607677255952) rotate(0 0.31546563670440264 -31.208763258316708)">
+            <path d="M0 0 C0.11 -10.4, 0.53 -52.01, 0.63 -62.42 M0 0 C0.11 -10.4, 0.53 -52.01, 0.63 -62.42" stroke="#5c940d" stroke-width="2" fill="none"></path>
+        </g>
+        <g stroke-opacity="0.4" fill-opacity="0.4" transform="translate(402.0078500947386 210.7607677255952) rotate(0 0.31546563670440264 -31.208763258316708)">
+            <path d="M10.61 -34.12 C7.16 -43.9, 3.71 -53.68, 0.63 -62.42 M10.61 -34.12 C8.23 -40.86, 5.86 -47.59, 0.63 -62.42" stroke="#5c940d" stroke-width="2" fill="none"></path>
+        </g>
+        <g stroke-opacity="0.4" fill-opacity="0.4" transform="translate(402.0078500947386 210.7607677255952) rotate(0 0.31546563670440264 -31.208763258316708)">
+            <path d="M-9.91 -34.33 C-6.27 -44.04, -2.63 -53.74, 0.63 -62.42 M-9.91 -34.33 C-7.4 -41.02, -4.89 -47.7, 0.63 -62.42" stroke="#5c940d" stroke-width="2" fill="none"></path>
+        </g>
+    </g>
+    <g stroke-opacity="0.6" fill-opacity="0.6" transform="translate(291.3415558115819 117.86830792343596) rotate(0 117.5 12)">
+        <text x="117.5" y="20" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#5c940d" text-anchor="middle" style="white-space: pre;" direction="ltr">Name of the variable</text>
+    </g>
+    <g transform="translate(518.6405076533426 209.72849327044776) rotate(0 11 22)">
+        <text x="11" y="35" font-family="Cascadia, Segoe UI Emoji" font-size="36px" fill="#0b7285" text-anchor="middle" style="white-space: pre;" direction="ltr">:</text>
+    </g>
+    <g stroke-opacity="0.4" fill-opacity="0.4" stroke-linecap="round" transform="translate(506.16405763338594 216.0562842811197) rotate(0 23.302019897437503 18.591172082364096)">
+        <path d="M9.3 0 L37.31 0 L41.38 0.58 L44.28 2.32 L46.02 5.23 L46.6 9.3 L46.6 27.89 L46.02 31.95 L44.28 34.86 L41.38 36.6 L37.31 37.18 L9.3 37.18 L5.23 36.6 L2.32 34.86 L0.58 31.95 L0 27.89 L0.58 5.23 L2.32 2.32 L5.23 0.58 L9.3 0" stroke="none" stroke-width="0" fill="#15aabf"></path>
+        <path d="M9.3 0 M9.3 0 C15.33 0, 21.36 0, 37.31 0 M9.3 0 C15.7 0, 22.11 0, 37.31 0 M37.31 0 C43.51 0, 46.6 3.1, 46.6 9.3 M37.31 0 C43.51 0, 46.6 3.1, 46.6 9.3 M46.6 9.3 C46.6 13.69, 46.6 18.08, 46.6 27.89 M46.6 9.3 C46.6 15.2, 46.6 21.11, 46.6 27.89 M46.6 27.89 C46.6 34.08, 43.51 37.18, 37.31 37.18 M46.6 27.89 C46.6 34.08, 43.51 37.18, 37.31 37.18 M37.31 37.18 C28.3 37.18, 19.28 37.18, 9.3 37.18 M37.31 37.18 C26.58 37.18, 15.84 37.18, 9.3 37.18 M9.3 37.18 C3.1 37.18, 0 34.08, 0 27.89 M9.3 37.18 C3.1 37.18, 0 34.08, 0 27.89 M0 27.89 C0 23.64, 0 19.4, 0 9.3 M0 27.89 C0 21.37, 0 14.85, 0 9.3 M0 9.3 C0 3.1, 3.1 0, 9.3 0 M0 9.3 C0 3.1, 3.1 0, 9.3 0" stroke="#0b7285" stroke-width="2" fill="none"></path>
+    </g>
+    <g stroke-linecap="round">
+        <g stroke-opacity="0.6" fill-opacity="0.6" transform="translate(541.3382620324221 262.88173112757215) rotate(0 15.398533454389963 15.457973162058806)">
+            <path d="M0 0 C5.13 5.15, 25.66 25.76, 30.8 30.92 M0 0 C5.13 5.15, 25.66 25.76, 30.8 30.92" stroke="#0b7285" stroke-width="2" fill="none"></path>
+        </g>
+        <g stroke-opacity="0.6" fill-opacity="0.6" transform="translate(541.3382620324221 262.88173112757215) rotate(0 15.398533454389963 15.457973162058806)">
+            <path d="M11.04 21.66 C15.22 23.62, 19.41 25.58, 30.8 30.92 M11.04 21.66 C15.05 23.54, 19.07 25.42, 30.8 30.92" stroke="#0b7285" stroke-width="2" fill="none"></path>
+        </g>
+        <g stroke-opacity="0.6" fill-opacity="0.6" transform="translate(541.3382620324221 262.88173112757215) rotate(0 15.398533454389963 15.457973162058806)">
+            <path d="M21.61 11.12 C23.56 15.31, 25.5 19.51, 30.8 30.92 M21.61 11.12 C23.48 15.14, 25.34 19.16, 30.8 30.92" stroke="#0b7285" stroke-width="2" fill="none"></path>
+        </g>
+    </g>
+    <g stroke-opacity="0.6" fill-opacity="0.6" transform="translate(400.50052197109403 301.36191578368164) rotate(0 217.5 12)">
+        <text x="217.5" y="20" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#0b7285" text-anchor="middle" style="white-space: pre;" direction="ltr">Going to specify this variable's type</text>
+    </g>
+    <g stroke-opacity="0.6" fill-opacity="0.6" transform="translate(579.7767306630765 216.03997706395455) rotate(0 49.5 17)">
+        <text x="49.5" y="27" font-family="Cascadia, Segoe UI Emoji" font-size="28px" fill="#e67700" text-anchor="middle" style="white-space: pre;" direction="ltr">string</text>
+    </g>
+    <g stroke-opacity="0.2" fill-opacity="0.2" stroke-linecap="round" transform="translate(572.9753458632701 215.84006330784894) rotate(0 56.60873385269065 18.93615719926629)">
+        <path d="M9.47 0 L103.75 0 L107.89 0.59 L110.85 2.37 L112.63 5.33 L113.22 9.47 L112.63 32.55 L110.85 35.51 L107.89 37.28 L103.75 37.87 L9.47 37.87 L5.33 37.28 L2.37 35.51 L0.59 32.55 L0 9.47 L0.59 5.33 L2.37 2.37 L5.33 0.59 L9.47 0" stroke="none" stroke-width="0" fill="#fab005"></path>
+        <path d="M9.47 0 M9.47 0 C41.52 0, 73.57 0, 103.75 0 M9.47 0 C30.49 0, 51.51 0, 103.75 0 M103.75 0 C110.06 0, 113.22 3.16, 113.22 9.47 M103.75 0 C110.06 0, 113.22 3.16, 113.22 9.47 M113.22 9.47 C113.22 15.96, 113.22 22.46, 113.22 28.4 M113.22 9.47 C113.22 13.54, 113.22 17.61, 113.22 28.4 M113.22 28.4 C113.22 34.72, 110.06 37.87, 103.75 37.87 M113.22 28.4 C113.22 34.72, 110.06 37.87, 103.75 37.87 M103.75 37.87 C78.19 37.87, 52.64 37.87, 9.47 37.87 M103.75 37.87 C83.34 37.87, 62.94 37.87, 9.47 37.87 M9.47 37.87 C3.16 37.87, 0 34.72, 0 28.4 M9.47 37.87 C3.16 37.87, 0 34.72, 0 28.4 M0 28.4 C0 22.23, 0 16.05, 0 9.47 M0 28.4 C0 21.04, 0 13.67, 0 9.47 M0 9.47 C0 3.16, 3.16 0, 9.47 0 M0 9.47 C0 3.16, 3.16 0, 9.47 0" stroke="#e67700" stroke-width="2" fill="none"></path>
+    </g>
+    <g stroke-opacity="0.7" fill-opacity="0.7" transform="translate(594.0964643851996 144.72476579266083) rotate(0 182 12)">
+        <text x="182" y="20" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#e67700" text-anchor="middle" style="white-space: pre;" direction="ltr">Type annotation of the variable</text>
+    </g>
+    <g stroke-linecap="round">
+        <g stroke-opacity="0.7" fill-opacity="0.7" transform="translate(644.6833814502704 210.49367989796121) rotate(0 15.61967182218359 -15.826408853272142)">
+            <path d="M0 0 C5.21 -5.28, 26.03 -26.38, 31.24 -31.65 M0 0 C5.21 -5.28, 26.03 -26.38, 31.24 -31.65" stroke="#e67700" stroke-width="2" fill="none"></path>
+        </g>
+        <g stroke-opacity="0.7" fill-opacity="0.7" transform="translate(644.6833814502704 210.49367989796121) rotate(0 15.61967182218359 -15.826408853272142)">
+            <path d="M21.97 -11.44 C24.61 -17.2, 27.26 -22.96, 31.24 -31.65 M21.97 -11.44 C23.9 -15.65, 25.83 -19.86, 31.24 -31.65" stroke="#e67700" stroke-width="2" fill="none"></path>
+        </g>
+        <g stroke-opacity="0.7" fill-opacity="0.7" transform="translate(644.6833814502704 210.49367989796121) rotate(0 15.61967182218359 -15.826408853272142)">
+            <path d="M11.15 -22.12 C16.87 -24.84, 22.6 -27.55, 31.24 -31.65 M11.15 -22.12 C15.33 -24.11, 19.51 -26.09, 31.24 -31.65" stroke="#e67700" stroke-width="2" fill="none"></path>
+        </g>
+    </g>
+    <g stroke-opacity="0.7" fill-opacity="0.7" transform="translate(711.0288144157105 218.08038966783704) rotate(0 58 17)">
+        <text x="58" y="27" font-family="Cascadia, Segoe UI Emoji" font-size="28px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">= "Sid"</text>
+    </g>
+    <g stroke-opacity="0.7" fill-opacity="0.7" transform="translate(836.0857425189213 222.56599996862985) rotate(0 112 12)">
+        <text x="112" y="20" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#343a40" text-anchor="middle" style="white-space: pre;" direction="ltr">// The value itself</text>
+    </g>
+    <g stroke-opacity="0.7" fill-opacity="0.7" stroke-linecap="round" transform="translate(10 83.90726394904016) rotate(0 554.218674087488 155.94276627923534)">
+        <path d="M77.97 0 M77.97 0 C432.54 0, 787.12 0, 1030.47 0 M77.97 0 C330.54 0, 583.1 0, 1030.47 0 M1030.47 0 C1082.45 0, 1108.44 25.99, 1108.44 77.97 M1030.47 0 C1082.45 0, 1108.44 25.99, 1108.44 77.97 M1108.44 77.97 C1108.44 137.27, 1108.44 196.56, 1108.44 233.91 M1108.44 77.97 C1108.44 113.72, 1108.44 149.48, 1108.44 233.91 M1108.44 233.91 C1108.44 285.9, 1082.45 311.89, 1030.47 311.89 M1108.44 233.91 C1108.44 285.9, 1082.45 311.89, 1030.47 311.89 M1030.47 311.89 C793.5 311.89, 556.53 311.89, 77.97 311.89 M1030.47 311.89 C811.44 311.89, 592.41 311.89, 77.97 311.89 M77.97 311.89 C25.99 311.89, 0 285.9, 0 233.91 M77.97 311.89 C25.99 311.89, 0 285.9, 0 233.91 M0 233.91 C0 183.82, 0 133.72, 0 77.97 M0 233.91 C0 191.5, 0 149.09, 0 77.97 M0 77.97 C0 25.99, 25.99 0, 77.97 0 M0 77.97 C0 25.99, 25.99 0, 77.97 0" stroke="#343a40" stroke-width="2" fill="none"></path>
+    </g>
+</svg>

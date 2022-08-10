@@ -257,18 +257,29 @@ table {
 }
 
 /* Zebra striping */
-tr:nth-of-type(odd) {
+thead {
   background: var(--theme-bg-hover);
 }
+
 th {
   background: var(--color-black);
   color: var(--theme-color);
   font-weight: bold;
 }
+
 td,
 th {
   padding: 6px;
   text-align: left;
+}
+
+td {
+  border: 2px solid var(--theme-bg-hover);
+  border-radius: 0;
+}
+
+td {
+  border-top: none;
 }
 
 pre {
@@ -400,4 +411,9 @@ h2.heading {
 
 :target {
   scroll-margin: calc(var(--theme-sidebar-offset, 5rem) + 2rem) 0 2rem;
+}
+
+th,
+td {
+  padding: 15px;
 }

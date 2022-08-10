@@ -16,23 +16,24 @@ This is the companion site for my workshop on **Typescript**. It contains all th
 ## Workshop outline
 
 ### Day 1
+
 - ✅ **Introduction and Understanding Type systems**
 - ✅ **Setting up Typescript and configuring TSC**
-- ✅ **Type annotations and Type aliases**
-- ✅ **Common mistakes and gotchas**
-- ✅ **Typing Variables and Functions**
-- ✅ **Typing Arrays, Tuples, Objects and Enums**
+- ✅ **Type annotations and Type inference**
+- ✅ **Functions, Arrays, Objects**
+- ✅ **Tuples and Enums**
 - ✅ **Unions and Intersection Types**
 - ✅ **any, unknown and never Types**
-- ✅ **Code re-use with interfaces**
+- ✅ **Type aliases and Interfaces**
+- ✅ **Read only Types and const**
 - ✅ **How typescript works from a higher level, understanding type narrowing**
 
 ### Day 2
 
 - ✅ **OOP and Access modifiers**
-- ✅ **Generics and Utility types**
-- ✅ **read only Types and Generic constrains**
+- ✅ **Generics, constrains and Utility types**
 - ✅ **Mapped Types and Conditional Types**
 - ✅ **Template literal types**
 - ✅ **Custom Type guards and assertions**
+- ✅ **The infer keyword**
 - ✅ **Type challenges**
