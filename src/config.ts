@@ -33,14 +33,14 @@ export const COMMUNITY_INVITE_URL = `https://discord.gg/596bVyXJcQ`;
 export const SIDEBAR = {
   en: [
     { text: 'Welcome to the workshop', link: 'welcome' },
-    { text: 'Introduction', link: 'introduction' },
     { text: 'Workshop content - Day 1', header: true },
+    { text: 'Introduction', link: 'introduction' },
     { text: 'Setting up Typescript', link: 'setting-up-typescript' },
     {
       text: 'Type annotations and Aliases',
       link: 'type-annotations-and-aliases',
     },
-    { text: 'Common mistakes', link: 'common-mistakes' },
+    { text: 'Common mistakes and gotchas', link: 'common-mistakes' },
     { text: 'Variables and functions', link: 'variables-and-functions' },
     { text: 'Arrays, Tuples and objects', link: 'arrays-tuples-and-objects' },
     { text: 'Unions and Intersections', link: 'unions-and-intersections' },
