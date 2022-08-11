@@ -23,7 +23,7 @@ function greet(name, greeting) {
 
 In this code we are making many assumptions, we expect `name` and `greeting` to be a string so it can be combined together and forms a full greeting.
 
-But what if I passed an object instead? like this `greeting({ name: "Sid" }, "Hello")`
+But what if I passed an object instead? like this `greet({ name: "Sid" }, "Hello")`
 
 it won't work, but Typescript can help us to catch such problems ahead of time during development.
 
@@ -35,7 +35,7 @@ function greet(name: string, greeting: string) {
 }
 ```
 
-Now if someone tries doing `greeting({ name: "Sid" }, "Hello")`
+Now if someone tries doing `greet({ name: "Sid" }, "Hello")`
 
 Typescript will produce an type error like so
 
