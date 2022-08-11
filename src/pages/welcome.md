@@ -9,8 +9,17 @@ This is the companion site for my workshop on **Typescript**. It contains all th
 
 ## Prerequisites
 
-- Basic to intermediate knowledge of Javascript
-- Curiosity to learn! 🤩
+1. Basic to medium knowledge of JavaScript.
+2. Curiosity to learn! 💫
+3. Join the server to attend the workshop 👇🏼
+
+[LINK TO COMMUNITY SERVER](https://discord.gg/hMF2WEQ7yd?event=1007032969980030996)
+
+## Event Details
+
+- Timing: **9:30 pm IST**
+- Date: **13th - 14th Aug (Sat-Sun)**
+- VC: 😃 丨 Events VC
 
 ## Workshop outline
 
