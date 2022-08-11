@@ -1,10 +1,14 @@
 ---
 import HeadCommon from "../components/HeadCommon.astro";
-import MainLayout from "../layouts/MainLayout.astro";
+import HeadSEO from "../components/HeadSEO.astro";
 
 ---
 
-<HeadCommon />
+<head>
+    <HeadCommon />
+    <HeadSEO />
+</head>
+
 
 <script is:inline>
     // Redirect your homepage to the first page of documentation.
