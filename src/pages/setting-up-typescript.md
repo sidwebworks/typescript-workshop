@@ -82,7 +82,7 @@ There are A LOT of options which will take forever to cover but this is a good s
 }
 ```
 
-[_Docs reference_](https://www.typescriptlang.org/tsconfig) for the `tsconfig.json` file with explainations on what each option does
+[_Documentation_](https://www.typescriptlang.org/tsconfig) for the `tsconfig.json` file with explainations on what each option does
 
 ## Running typescript files
 

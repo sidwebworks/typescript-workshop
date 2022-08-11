@@ -51,10 +51,7 @@ export const SIDEBAR = {
       text: 'Type aliases and Interfaces',
       link: 'type-aliases-and-interfaces',
     },
-    {
-      text: 'Read only Types and const',
-      link: 'read-only-types-and-generic-constrains',
-    },
+
     {
       text: 'Understanding type narrowing',
       link: 'understanding-type-narrowing',
