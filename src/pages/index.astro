@@ -1,0 +1,13 @@
+---
+import HeadCommon from "../components/HeadCommon.astro";
+import MainLayout from "../layouts/MainLayout.astro";
+
+---
+
+<HeadCommon />
+
+<script is:inline>
+    // Redirect your homepage to the first page of documentation.
+    // If you have a landing page, remove this script and add it here!
+    window.location.pathname = `/welcome`;
+</script>
