@@ -1,6 +1,5 @@
 ---
 title: Welcome to the Workshop!
-description: Understanding typescript
 layout: ../layouts/MainLayout.astro
 ---
 

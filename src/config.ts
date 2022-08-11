@@ -1,12 +1,13 @@
 export const SITE = {
   title: 'Understanding Typescript',
-  description: 'Companion website for the typescript workshop.',
+  description: "Companion website for sidwebworks's typescript workshop.",
   defaultLanguage: 'en_US',
+  site: 'https://typescript-workshop.sidwebworks.com',
 };
 
 export const OPEN_GRAPH = {
   image: {
-    src: '`https://github.com/sidwebworks/typescript-workshop/',
+    src: '/default-og-image.png',
     alt: 'Understanding Typescript',
   },
   twitter: 'sidwebworks',

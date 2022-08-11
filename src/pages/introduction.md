@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Introduction to Typescript
 layout: ../layouts/MainLayout.astro
 ---
 
