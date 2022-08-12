@@ -52,7 +52,6 @@ export const SIDEBAR = {
       text: 'Type aliases and Interfaces',
       link: 'type-aliases-and-interfaces',
     },
-
     { text: 'Workshop content - Day 2', header: true },
     { text: 'OOP and Access modifiers', link: 'oop-and-access-modifiers' },
     {

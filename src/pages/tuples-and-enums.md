@@ -44,7 +44,7 @@ The main goal of using enums is to group similiar key value pairs together to si
 Here is how an `enum` looks like
 
 ```ts
-enum KeyCodes {
+enum Directions {
   Up = 'up',
   Down = 'down',
   Left = 'left',
@@ -55,44 +55,44 @@ enum KeyCodes {
 After compilation this enum will get converted into something like this
 
 ```js
-var KeyCodes;
-(function (KeyCodes) {
-  KeyCodes['Up'] = 'up';
-  KeyCodes['Down'] = 'down';
-  KeyCodes['Left'] = 'left';
-  KeyCodes['Right'] = 'right';
-})(KeyCodes || (KeyCodes = {}));
+var Directions;
+(function (Directions) {
+  Directions['Up'] = 'up';
+  Directions['Down'] = 'down';
+  Directions['Left'] = 'left';
+  Directions['Right'] = 'right';
+})(Directions || (Directions = {}));
 ```
 
 Enums can used as type annotations inside other functions and types like so
 
 ```ts
-function move(key: KeyCodes) {
+function move(key: Directions) {
   switch (key) {
-    case KeyCodes.Up:
+    case Directions.Up:
       console.log('Moving Up');
-    case KeyCodes.Down:
+    case Directions.Down:
       console.log('Moving Down');
-    case KeyCodes.Left:
+    case Directions.Left:
       console.log('Moving Left');
-    case KeyCodes.Right:
+    case Directions.Right:
       console.log('Moving Right');
   }
 }
 
-move(KeyCodes.Up); // Works
+move(Directions.Up); // Works
 ```
 
 If we try passing the values of the enum directly like `move("up")`
 
 Typescript will raise a type error saying
 
-> Argument of type '"up"' is not assignable to parameter of type 'KeyCodes'.
+> Argument of type '"up"' is not assignable to parameter of type 'Directions'.
 
 If we create an Enum without any values, something like this
 
 ```ts
-enum KeyCodes {
+enum Directions {
   Up,
   Down,
   Left,
@@ -103,7 +103,7 @@ enum KeyCodes {
 They will be treated as numbers instead, same as doing
 
 ```ts
-enum KeyCodes {
+enum Directions {
   Up = 0,
   Down = 1,
   Left = 2,
