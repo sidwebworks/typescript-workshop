@@ -45,6 +45,29 @@ we can use a union type to annotate for all 3 of them
 const elements: (string | number | boolean)[] = ['Sid', 123, true];
 ```
 
+### keyof operator
+
+The `keyof` operator is used to extract a union type of all the keys of another object type.
+
+```ts
+const user = {
+  name: 'Sid',
+  id: 1,
+  age: 99,
+} as const;
+
+function getProperty(key: keyof typeof user, obj: typeof user) {
+  return obj[key];
+}
+
+const prop = getProperty('id', user);
+```
+
+Here we are combing the `typeof` and `keyof` operator together, we first extract the user type using `typeof user`
+
+then we create a union from that object type using `keyof` operator
+
+
 Unlike `tuples` these are WON'T be in strict order,
 every individual element will have a type of `string | number | boolean`
 
