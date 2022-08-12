@@ -7,7 +7,7 @@ layout: ../layouts/MainLayout.astro
 
 [_Documentation_](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#functions)
 
-### function parameters
+### Parameter types
 
 [_Documentation_](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#parameter-type-annotations)
 
@@ -29,7 +29,7 @@ const sum = (a: number, b: number) => {
 };
 ```
 
-### function return types
+### Return types
 
 [_Documentation_](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#return-type-annotations)
 

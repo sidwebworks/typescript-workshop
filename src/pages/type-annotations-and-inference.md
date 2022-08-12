@@ -36,6 +36,42 @@ A type annotation can be added for any **variable declaration**, **function argu
 
 > There are also `never` and `unknown` types which we will learn about in future sections.
 
+## Literal Types
+
+In addition to the general types string and number, we can refer to specific strings and numbers in type positions.
+
+Eg. a type can only accept a particular value like `"Hello"`, `123`, `true` etc.
+
+These are known as `literal types`
+
+```ts
+let name: 'Sidharth'; // Declared it, but DID NOT ASSIGN A VALUE YET
+
+name = 'Sid'; // Error: Type '"Sid"' is not assignable to type '"Sidharth"'
+```
+
+## typeof operator
+
+Its very common at times that you might want to create a type annotation from an existing variable
+
+In Javascript if we do `typeof user` it will say something like `object` but won't give any more information
+about the structure of the `user` object.
+
+However in typescript, when we do `typeof user` we can extract all the properties and types that user object has
+
+Here is how it looks like in code,
+
+```ts
+const user = {
+  name: 'Sid',
+  id: 123,
+};
+
+function getName(user: typeof user): string {
+  return user.name; // Works
+}
+```
+
 ## Type inference
 
 [_Documentation_](https://www.typescriptlang.org/docs/handbook/type-inference.html#handbook-content)
