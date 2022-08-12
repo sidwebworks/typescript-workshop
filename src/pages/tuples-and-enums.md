@@ -100,7 +100,7 @@ enum KeyCodes {
 }
 ```
 
-They will be treated as regular number values instead, same as doing
+They will be treated as numbers instead, same as doing
 
 ```ts
 enum KeyCodes {

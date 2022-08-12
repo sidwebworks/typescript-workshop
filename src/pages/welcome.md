@@ -33,7 +33,6 @@ This is the companion site for my workshop on **Typescript**. It contains all th
 - ✅ **Unions and Intersection Types**
 - ✅ **any, unknown and never Types**
 - ✅ **Type aliases and Interfaces**
-- ✅ **How typescript works from a higher level, understanding type narrowing**
 
 ### Day 2
 

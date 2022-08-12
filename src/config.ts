@@ -53,10 +53,6 @@ export const SIDEBAR = {
       link: 'type-aliases-and-interfaces',
     },
 
-    {
-      text: 'Understanding type narrowing',
-      link: 'understanding-type-narrowing',
-    },
     { text: 'Workshop content - Day 2', header: true },
     { text: 'OOP and Access modifiers', link: 'oop-and-access-modifiers' },
     {

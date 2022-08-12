@@ -45,6 +45,16 @@ Typescript will produce an type error like so
 
 This process of analyzing our code and producing type errors is known as [**Type checking**](https://www.typescriptlang.org/docs/handbook/2/basic-types.html#static-type-checking)
 
+#### Static vs dynamic
+
+Sorting type systems as either static or dynamic has to do with whether type-checking is performed at compile time or runtime.
+
+TypeScript’s type system is static.
+
+Java, C#, C++ all fit into this category. Keep in mind that inferrence can still occur in static type systems — TypeScript, Scala, and Haskell all have some form of static type checking.
+
+Dynamic type systems perform their “type equivalence” evaluation at runtime. JavaScript, Python, Ruby, Perl and PHP fall into this category.
+
 **That's it, this is what the Typescript type system does.**
 
 - Helps us to catch bugs and errors during **development**
