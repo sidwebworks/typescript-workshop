@@ -58,16 +58,11 @@ export const SIDEBAR = {
       text: 'Generics, constrains and Utility types',
       link: 'generics-and-utility-types',
     },
-
     {
       text: 'Mapped and Conditional Types',
       link: 'mapped-and-conditional-types',
     },
-    { text: 'Template literal types', link: 'template-literal-types' },
-    {
-      text: 'Custom Type guards and assertions',
-      link: 'custom-type-guards-and-assertions',
-    },
+    { text: 'Build a typesafe API client', link: 'api-client' },
     { text: 'Type challenges', link: 'type-challenges' },
   ],
 };

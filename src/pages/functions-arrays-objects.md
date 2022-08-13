@@ -79,9 +79,15 @@ Type annotations for objects also known as key-value pairs, looks very similiar 
 const user: {
   firstName: string;
   lastName: string;
+  bio: {
+    [key: string]: string;
+  };
 } = {
   firstName: 'Swaroop',
   lastName: 'Rajwal',
+  bio: {
+    status: 'feeling happy with 69 others...',
+  },
 };
 ```
 
@@ -143,3 +149,55 @@ user.id = 456;
 We get a a type error saying
 
 > Cannot assign to 'id' because it is a read-only property.
+
+## Practice
+
+A function to get the wordcount of a sentence
+
+```ts
+function getWordCount(input, delimiter = ' ') {
+  const words = input.split(delimiter);
+
+  return words.filter((w) => w.trim()).length;
+}
+
+const count = getWordCount('Hello world learning typescript is super fun');
+```
+
+A function which converts an array into a object where is index and value is the element of the array
+
+```ts
+function createMap(elems) {
+  let index = 0;
+  const result = {};
+
+  for (let elem of elems) {
+    result[index] = elem;
+    index++;
+  }
+
+  return result;
+}
+
+const map = createMap(['hello', 'hi', 'hey', 'hola', 'bye']);
+```
+
+A function to create a user object
+
+```ts
+function createUser({fullName, email, roles}) {
+  const [firstname, lastname] = fullName.trim().split(" ")
+
+  const user = {
+    firstname,
+    lastname,
+    email,
+    roles
+    isAdmin: roles.some(r => r === "admin")
+  }
+
+  return user
+}
+
+const result = createUser({ fullName: "Sidharth Rathi", email: "sid@example.com", roles:["admin", "user"] })
+```
