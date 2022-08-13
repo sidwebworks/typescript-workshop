@@ -91,7 +91,7 @@ You can run a typescript (.ts) file using the `tsc` command:
 **Transpiles the file to javascript**
 
 ```bash
-tsc file.ts
+tsc
 ```
 
 **Runs the file using node**

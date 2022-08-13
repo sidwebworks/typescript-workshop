@@ -42,5 +42,5 @@ This is the companion site for my workshop on **Typescript**. It contains all th
 - ✅ **Template literal types**
 - ✅ **Custom Type guards and assertions**
 - ✅ **The infer keyword**
-- ✅ **Build a typesafe API clients**
+- ✅ **Build a typesafe API client**
 - ✅ **Type challenges**
