@@ -80,4 +80,22 @@ TypeScript provides three access modifier keywords, which can be used with class
 - **protected** the instance itself, and subclasses
 - **private** only the instance itself
 
-> Access modifiers are only a typescript feature, *THEY DO NOT PROVIDE ANY SECURITY improvements*.
+> Access modifiers are only a typescript feature, _THEY DO NOT PROVIDE ANY SECURITY improvements_.
+
+## Implements keyword
+
+A class can implement any given interface using the `implements` keyword
+
+```ts
+interface User {
+  name: string;
+  id: number;
+}
+
+class Admin implements User {
+  name = 'Sidharth';
+  id = 123;
+}
+
+const admin = new Admin();
+```

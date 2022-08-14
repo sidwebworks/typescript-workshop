@@ -62,7 +62,7 @@ export const SIDEBAR = {
       text: 'Mapped and Conditional Types',
       link: 'mapped-and-conditional-types',
     },
-    { text: 'Build a typesafe API client', link: 'api-client' },
     { text: 'Type challenges', link: 'type-challenges' },
+    { text: 'Build a typesafe API client', link: 'api-client' },
   ],
 };
