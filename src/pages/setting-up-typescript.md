@@ -84,9 +84,9 @@ There are A LOT of options which will take forever to cover but this is a good s
 
 [_Documentation_](https://www.typescriptlang.org/tsconfig) for the `tsconfig.json` file with explainations on what each option does
 
-## Running typescript files
+## Compiling and Running typescript files
 
-You can run a typescript (.ts) file using the `tsc` command:
+You can compile a typescript (.ts) file using the `tsc` command:
 
 **Transpiles the file to javascript**
 
